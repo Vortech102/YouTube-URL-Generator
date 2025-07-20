@@ -1,4 +1,6 @@
 # YouTube-URL-Generator
+To download it, tap on Youtube URL Generator.py
+------------------------------------------------------------------------------------------------
 Generate YouTube URL's like channel links & video links. Once you run the script just follow the instrucions the project gives you.
 ------------------------------------------------------------------------------------------------
 You must have Python on you're computer to run this script.
